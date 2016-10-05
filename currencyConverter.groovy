@@ -30,7 +30,7 @@ while (!finished) {
 	  finished = true;
 	  break;
     default: 
-	  println "Sorry, that is not a valid option";
+	  println "Sorry, that is not a valid option. PLease try again.";
     }	  
 }
 println "Exiting the program";
